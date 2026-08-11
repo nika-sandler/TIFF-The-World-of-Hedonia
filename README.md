@@ -4,7 +4,7 @@ On New Year's Eve, I made a wish to immerse myself forever in the sensations tha
 In this series, I depict different types of pleasures and the states associated with them. I create still lifes and environments from objects and substances that are associated with something pleasant and seductive, and sometimes creepy. The doll appears to be my alter-ego, living a New Year's experiment.
 ## Contents
 This repository includes:
-- An archive of images from *The World of Hedonia* series
+- An archive of TIFF images from *The World of Hedonia* series
 - Accompanying project materials
 - License information
 ## DOI and Archiving
